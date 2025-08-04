@@ -10,7 +10,7 @@ NightClubFinder es una aplicación web moderna construida con React, TypeScript,
 
 ```bash
 # Clonar el repositorio
-git clone [URL_DEL_REPOSITORIO]
+git clone https://github.com/Beto18v/NightClub.git
 cd NightClubFinder
 
 # Instalar dependencias
